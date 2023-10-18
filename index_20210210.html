@@ -1,0 +1,47 @@
+<?
+	require($_SERVER["DOCUMENT_ROOT"]."/module/lib/header.php");
+
+	if (NOW_IP == '220.85.206.108') {
+		header('Location: index.php');
+		exit;
+	}
+?>
+
+<!DOCTYPE html>
+<html lang="ko"><head>
+<meta charset="utf-8">
+<!-- default -->
+<meta name="title" content="제이오투어" />
+<meta name="author" content="제이오투어" />
+<meta name="keyword" content="제이오투어" />
+<meta name="description" content="제이오투어" />
+    <style>
+		/*리뉴얼 안내*/
+		.area_renew {height: 100vh; max-width:1400px; margin: 0 auto;}
+		.area_renew > div {display: table; width: 100%; height: 100%;}
+		.area_renew > div > div {display: table-cell; vertical-align: middle;}
+		.area_renew > div.lft {padding-right: 8%;}
+		.area_renew > div.rgh img {margin-bottom: -50px;}
+		.area_renew .h1 {font-weight: 700; font-size: 56px; line-height: 1.2; margin-bottom: 20px;}
+		.area_renew .t1 {margin-bottom: 20px; font-size: 16px; line-height: 1.7; color: #808080;}
+    </style>
+</head>
+
+<body>
+	<div class="area_renew">
+		<div>
+			<div class="lft">
+				<p class="h1">제이오투어 <br>웹사이트 리뉴얼 구축중</p>
+				<p class="t1">
+					제이오투어 홈페이지가 새롭게 개편 작업중에 있습니다.
+					<br>보다 편리하게 이용하실 수 있도록 최선의 노력을 다하겠습니다.
+					<br>고객님들의 많은 양해 부탁드립니다.
+					<br>
+				</p>
+				<p class="t1">사이트 오픈 예정 : 2021년 2월 15일 14시</p>
+			</div>
+			<div class="rgh"><img src="img_renewal.png" alt=""></div>
+		</div>
+	</div>
+</body>
+</html>
