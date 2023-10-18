@@ -202,8 +202,8 @@
 	//현지 담당자 이메일
 	$CONST_LOCAL_CONTACT_EMAIL1 = 'Donisha.cruz@avisguam.com';  //괌 담당자
 	$CONST_LOCAL_CONTACT_EMAIL1_CC = 'Elisa.wilson@akguam.com,Lauren.candocruz@akguam.com,hit9157@naver.com';  //괌 참조 담당자
-	$CONST_LOCAL_CONTACT_EMAIL2 = 'TRAC.Main@aksaipan.com'; //사이판 담당자
-    $CONST_LOCAL_CONTACT_EMAIL2_CC = 'Loida.Francia@aksaipan.com,Melanie.Maala@aksaipan.com,dtinc670@gmail.com,hyejoo5252@gmail.com';  //사이판 참조 담당자
+	$CONST_LOCAL_CONTACT_EMAIL2 = 'Saipan@budgetmicronesia.com'; //사이판 담당자
+    $CONST_LOCAL_CONTACT_EMAIL2_CC = 'Erika.DeGuzman@avisguam.com,Loida.Francia@aksaipan.com,Melanie.Maala@aksaipan.com,dtinc670@gmail.com';  //사이판 참조 담당자
 
 	//테스트 SMS 수신처
 	$CONST_TEST_SMS = array("01043390723");

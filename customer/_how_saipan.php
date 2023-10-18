@@ -43,10 +43,10 @@
                                     <p class="view-m">사이판(공항)</p>
                                     <ol>
                                         <li>사이판 국제 공항 픽업 24시간 가능</li>
-                                        <li>입국 심사 후 밖으로 나오시면 정면에 렌터카 사무실 오피스가 있으며 “도요타 렌트카”부스에 방문 후 차량인수<br>
-                                        (발급되는 확정서는 제출 안하셔도 됩니다. 컴펌 번호를 직원에게 알려주시면 빠르게 확인 가능 합니다.)</li>
+                                        <li>입국 심사 후 밖으로 나오시면 정면에 렌터카 오피스가 있으며 오피스 내부 “Avis” 안내판이 있는 부스에 방문 후 차량 인수 <br>
+                                        (확정서는 별도로 제출 안 하셔도 되며 도요타렌트카명 및 컴펌번호를 미리 준비해 주세요)</li>
                                     </ol>
-                                    <p><span class="c-color">공항 사무실 운영 시간 AM 02:00 ~ PM 17:00</span></p>
+                                    <p><span class="c-color">공항 사무실 운영 시간 AM 01:00 ~ PM 17:00</span></p>
                                 </td>
                                 <td>
                                     <p class="view-m">사이판(호텔)</p>
@@ -96,10 +96,13 @@
                                     <p class="view-m">사이판(공항)</p>
                                     <ol>
                                         <li>사이판 국제공항 주차장 쪽으로 오시면 <span class="c-color">CAR RENTAL RETURN</span>” 문구 표지만 확인</li>
-                                        <li>주차장 진입 후 “<span class="c-color">TOYOTA RENT A CAR</span>” 표지판 쪽에 차량주차</li>
-                                        <li>주차장 쪽 렌터카 사무실 방문 후 직원에게 차량 키 전달</li>
+                                        <li>차량 진입 후 <span class="c-color">“AVIS”</span> 표지판이 있는 주차 구역에 차량 주차</li>
+                                        <li>렌터카 부스 사무실 방문 후 <span class="c-color">“Avis/Budget”</span> 에 차량키 반납</li>
                                         <li>차량 및 주유 등 확인</li>
-                                        <li><span class="c-color">공항 사무실 반납 시간  : AM 02:00 ~ PM 17:00</span></li>
+                                        <li>
+                                            <span class="c-color">공항 사무실 반납 시간 : AM 01:00 ~ PM 17:00<br>
+                                            (업무외 시간 직원이 없는 차량 키 보관함에 차량키 넣어 두시면 됩니다.)</span>
+                                        </li>
                                     </ol>
                                 </td>
                                 <td>
